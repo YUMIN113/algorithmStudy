@@ -32,6 +32,3 @@
 
  <p>첫째 줄에 C언어 평점을 출력한다.</p>
 
-# [개념 정리]
-
-- String equals() : returns a boolean value. whether they contain the same data.
