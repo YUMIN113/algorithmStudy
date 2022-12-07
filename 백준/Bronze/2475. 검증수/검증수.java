@@ -27,14 +27,12 @@ public class Main {
 // base, exponent 모두 Double type
 // 따라서 정수형으로 출력하려면 형변환 필요.
 
-// package algorithm.step05;
-//
 // import java.io.BufferedReader;
 // import java.io.IOException;
 // import java.io.InputStreamReader;
 // import java.util.StringTokenizer;
 //
-// public class A2475 {
+// public class Main {
 //
 //    public static void main(String[] args) throws IOException {
 //
