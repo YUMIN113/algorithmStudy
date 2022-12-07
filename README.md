@@ -5,5 +5,5 @@
 2) [백준_2754번_학점계산](https://github.com/YUMIN113/algorithmStudy/blob/main/%EB%B0%B1%EC%A4%80/Bronze/2754.%E2%80%85%ED%95%99%EC%A0%90%EA%B3%84%EC%82%B0/%ED%95%99%EC%A0%90%EA%B3%84%EC%82%B0.java)
 
 - 2022.12.06(화)
-1) [백준_15964번_이상한 기호] (https://github.com/YUMIN113/algorithmStudy/blob/main/%EB%B0%B1%EC%A4%80/Bronze/15964.%E2%80%85%EC%9D%B4%EC%83%81%ED%95%9C%E2%80%85%EA%B8%B0%ED%98%B8/%EC%9D%B4%EC%83%81%ED%95%9C%E2%80%85%EA%B8%B0%ED%98%B8.java)
+1) [백준_15964번_이상한 기호](https://github.com/YUMIN113/algorithmStudy/blob/main/%EB%B0%B1%EC%A4%80/Bronze/15964.%E2%80%85%EC%9D%B4%EC%83%81%ED%95%9C%E2%80%85%EA%B8%B0%ED%98%B8/%EC%9D%B4%EC%83%81%ED%95%9C%E2%80%85%EA%B8%B0%ED%98%B8.java)
 2) [백준_2475번_검증수](https://github.com/YUMIN113/algorithmStudy/blob/main/%EB%B0%B1%EC%A4%80/Bronze/2475.%E2%80%85%EA%B2%80%EC%A6%9D%EC%88%98/%EA%B2%80%EC%A6%9D%EC%88%98.java)
