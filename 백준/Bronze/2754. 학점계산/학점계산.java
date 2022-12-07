@@ -28,3 +28,5 @@ public class Main {
     System.out.print(result);
   }
 }
+
+// String equals() : returns a boolean value. whether they contain the same data.
