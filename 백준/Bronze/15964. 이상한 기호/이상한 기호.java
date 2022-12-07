@@ -17,3 +17,5 @@ public class Main {
     System.out.print((a + b) * (a - b));
   }
 }
+
+// 제약 조건 외 제한 없음 : Long 사용
