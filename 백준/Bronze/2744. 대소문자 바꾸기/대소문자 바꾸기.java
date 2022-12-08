@@ -32,8 +32,8 @@ public class Main {
   }
 }
 
-// String str = "A";
-// > int alphabet = 65;
-// > int result = 97;
-// > (char) result = 'a';
+// String str = "A"
+// > int alphabet = 65
+// > int result = 97
+// > (char) result = 'a'
 // > String.valueOf((char) result)) = "a"
