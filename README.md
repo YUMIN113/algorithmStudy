@@ -1,5 +1,8 @@
 # 2022.12.05 ~ 2022.12.11
 
+- 2022.12.09(금)
+1) [백준_2742번_기찍N](https://github.com/YUMIN113/algorithmStudy/blob/main/%EB%B0%B1%EC%A4%80/Bronze/2742.%E2%80%85%EA%B8%B0%EC%B0%8D%E2%80%85N/%EA%B8%B0%EC%B0%8D%E2%80%85N.java)
+
 - 2022.12.08(목)
 1) [백준_2744번_대소문자 바꾸기](https://github.com/YUMIN113/algorithmStudy/blob/main/%EB%B0%B1%EC%A4%80/Bronze/2744.%E2%80%85%EB%8C%80%EC%86%8C%EB%AC%B8%EC%9E%90%E2%80%85%EB%B0%94%EA%BE%B8%EA%B8%B0/%EB%8C%80%EC%86%8C%EB%AC%B8%EC%9E%90%E2%80%85%EB%B0%94%EA%BE%B8%EA%B8%B0.java)
 
