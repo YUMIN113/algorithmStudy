@@ -7,6 +7,7 @@ public class Main {
   public static void main(String[] args) throws IOException {
 
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+    StringBuilder sb = new StringBuilder();
 
     int[] num = new int[9];
     int[] numLine = new int[9];
@@ -23,13 +24,11 @@ public class Main {
       if(num[i] > num[i + 1] || num[i] == num[i + 1]) {
         num[i + 1] = num[i];
         result = num[i + 1];
-        line = i + 1;
       }
 
       if(num[i] < num[i + 1]) {
         num[i] = num[i + 1];
         result = num[i];
-        line = i + 2;
       } 
     }
 
@@ -39,7 +38,8 @@ public class Main {
       }
     }
 
-    System.out.print(result + "\n" + line);
+    sb.append(result + "\n" + line);
+    System.out.print(sb);
 
   }
 }
