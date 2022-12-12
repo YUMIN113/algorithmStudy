@@ -31,7 +31,7 @@ public class Main {
 // public byte[] getBytes()
 // String 문자열에 대하여 해당 문자열을 하나의 byte 배열로 변환해주는 메소드이다.
 // UTF-16 인코딩으로 변경되지만 영어 문자 및 숫자는 아스키코드와 호환이 된다. 
-// 즉 아스키코드에서 '0' 문자가 48 값을 가지고 있는 것 처럼 UTF-16 에서도 '0'은 48 값과 동일하다.
+// 즉, 아스키코드에서 '0' 문자가 48 값을 가지고 있는 것 처럼 UTF-16 에서도 '0'은 48 값과 동일하다.
 
 // import java.io.BufferedReader;
 // import java.io.IOException;
