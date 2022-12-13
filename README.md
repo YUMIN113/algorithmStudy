@@ -2,6 +2,7 @@
 
 - 2022.12.13(화)
 1) [백준_2908번_상수](https://github.com/YUMIN113/algorithmStudy/blob/main/%EB%B0%B1%EC%A4%80/Bronze/2908.%E2%80%85%EC%83%81%EC%88%98/%EC%83%81%EC%88%98.java)
+2) [백준_2920번_음계](https://github.com/YUMIN113/algorithmStudy/blob/main/%EB%B0%B1%EC%A4%80/Bronze/2920.%E2%80%85%EC%9D%8C%EA%B3%84/%EC%9D%8C%EA%B3%84.java)
 
 - 2022.12.12(월)
 1) [백준_11720번_숫자의 합](https://github.com/YUMIN113/algorithmStudy/blob/main/%EB%B0%B1%EC%A4%80/Bronze/11720.%E2%80%85%EC%88%AB%EC%9E%90%EC%9D%98%E2%80%85%ED%95%A9/%EC%88%AB%EC%9E%90%EC%9D%98%E2%80%85%ED%95%A9.java)
