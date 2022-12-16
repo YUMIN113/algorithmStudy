@@ -1,5 +1,8 @@
 # 2022.12.12 ~ 2022.12.18
 
+- 2022.12.16(금)
+1) [백준_1546번_평균](https://github.com/YUMIN113/algorithmStudy/blob/main/%EB%B0%B1%EC%A4%80/Bronze/1546.%E2%80%85%ED%8F%89%EA%B7%A0/%ED%8F%89%EA%B7%A0.java)
+
 - 2022.12.15(목)
 1) [백준_2675번_문자열 반복](https://github.com/YUMIN113/algorithmStudy/blob/main/%EB%B0%B1%EC%A4%80/Bronze/2675.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EB%B0%98%EB%B3%B5/%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EB%B0%98%EB%B3%B5.java)
 
