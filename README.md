@@ -1,5 +1,8 @@
 # 2022.12.12 ~ 2022.12.18
 
+- 2022.12.18(일)
+1) [백준_8958번_OX퀴즈](https://github.com/YUMIN113/algorithmStudy/blob/main/%EB%B0%B1%EC%A4%80/Bronze/8958.%E2%80%85OX%ED%80%B4%EC%A6%88/OX%ED%80%B4%EC%A6%88.java)
+
 - 2022.12.17(토)
 1) [백준_10818번_최소, 최대](https://github.com/YUMIN113/algorithmStudy/blob/main/%EB%B0%B1%EC%A4%80/Bronze/10818.%E2%80%85%EC%B5%9C%EC%86%8C%EF%BC%8C%E2%80%85%EC%B5%9C%EB%8C%80/%EC%B5%9C%EC%86%8C%EF%BC%8C%E2%80%85%EC%B5%9C%EB%8C%80.java)
 
