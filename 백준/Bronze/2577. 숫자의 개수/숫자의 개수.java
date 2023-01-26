@@ -8,14 +8,14 @@ public class Main {
 
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
-    Long multiplyResult = 1L;
+    int multiplyResult = 1;
 
     for(int i = 0; i < 3; i++) {
-      Long num = Long.parseLong(br.readLine());
+      int num = Integer.parseInt(br.readLine());
       multiplyResult *= num;
     }
 
-    String str = Long.toString(multiplyResult);
+    String str = String.valueOf(multiplyResult);
 
     int[] arr = new int[10];
     for(int i = 0; i < 10; i++) {
