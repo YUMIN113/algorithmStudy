@@ -1,9 +1,12 @@
-# 2022.12.19 ~ 2022.12.25
+# 2023년 01월
+
+- 2023.01.26(목)
+1) [백준_2577번_숫자의 개수](https://github.com/YUMIN113/algorithmStudy/blob/main/%EB%B0%B1%EC%A4%80/Bronze/2577.%E2%80%85%EC%88%AB%EC%9E%90%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98/%EC%88%AB%EC%9E%90%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98.java)
+
+# 2022년 12월
 
 - 2022.12.21(수)
 1) [백준_3052번_나머지](https://github.com/YUMIN113/algorithmStudy/blob/main/%EB%B0%B1%EC%A4%80/Bronze/3052.%E2%80%85%EB%82%98%EB%A8%B8%EC%A7%80/%EB%82%98%EB%A8%B8%EC%A7%80.java)
-
-# 2022.12.12 ~ 2022.12.18
 
 - 2022.12.18(일)
 1) [백준_8958번_OX퀴즈](https://github.com/YUMIN113/algorithmStudy/blob/main/%EB%B0%B1%EC%A4%80/Bronze/8958.%E2%80%85OX%ED%80%B4%EC%A6%88/OX%ED%80%B4%EC%A6%88.java)
@@ -24,8 +27,6 @@
 - 2022.12.12(월)
 1) [백준_11720번_숫자의 합](https://github.com/YUMIN113/algorithmStudy/blob/main/%EB%B0%B1%EC%A4%80/Bronze/11720.%E2%80%85%EC%88%AB%EC%9E%90%EC%9D%98%E2%80%85%ED%95%A9/%EC%88%AB%EC%9E%90%EC%9D%98%E2%80%85%ED%95%A9.java)
 2) [백준_2562번_최댓값](https://github.com/YUMIN113/algorithmStudy/blob/main/%EB%B0%B1%EC%A4%80/Bronze/2562.%E2%80%85%EC%B5%9C%EB%8C%93%EA%B0%92/%EC%B5%9C%EB%8C%93%EA%B0%92.java)
-
-# 2022.12.05 ~ 2022.12.11
 
 - 2022.12.11(일)
 1) [백준_10809번_알파벳 찾기](https://github.com/YUMIN113/algorithmStudy/blob/main/%EB%B0%B1%EC%A4%80/Bronze/10809.%E2%80%85%EC%95%8C%ED%8C%8C%EB%B2%B3%E2%80%85%EC%B0%BE%EA%B8%B0/%EC%95%8C%ED%8C%8C%EB%B2%B3%E2%80%85%EC%B0%BE%EA%B8%B0.java)
