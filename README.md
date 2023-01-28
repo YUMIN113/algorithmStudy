@@ -1,5 +1,8 @@
 # 2023년 01월
 
+- 2023.01.28(토)
+1) [백준_1085_직사각형에서 탈출](https://github.com/YUMIN113/algorithmStudy/blob/main/%EB%B0%B1%EC%A4%80/Bronze/1085.%E2%80%85%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%EC%97%90%EC%84%9C%E2%80%85%ED%83%88%EC%B6%9C/%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%EC%97%90%EC%84%9C%E2%80%85%ED%83%88%EC%B6%9C.java)
+
 - 2023.01.27(금)
 1) [백준_1157_단어 공부](https://github.com/YUMIN113/algorithmStudy/blob/main/%EB%B0%B1%EC%A4%80/Bronze/1157.%E2%80%85%EB%8B%A8%EC%96%B4%E2%80%85%EA%B3%B5%EB%B6%80/%EB%8B%A8%EC%96%B4%E2%80%85%EA%B3%B5%EB%B6%80.java)
 
