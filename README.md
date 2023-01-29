@@ -1,7 +1,7 @@
 # 2023년 01월
 
 - 2023.01.29(일)
--- [백준_4153번_직각삼각형](https://github.com/YUMIN113/algorithmStudy/blob/main/%EB%B0%B1%EC%A4%80/Bronze/4153.%E2%80%85%EC%A7%81%EA%B0%81%EC%82%BC%EA%B0%81%ED%98%95/%EC%A7%81%EA%B0%81%EC%82%BC%EA%B0%81%ED%98%95.java)
+- [백준_4153번_직각삼각형](https://github.com/YUMIN113/algorithmStudy/blob/main/%EB%B0%B1%EC%A4%80/Bronze/4153.%E2%80%85%EC%A7%81%EA%B0%81%EC%82%BC%EA%B0%81%ED%98%95/%EC%A7%81%EA%B0%81%EC%82%BC%EA%B0%81%ED%98%95.java)
 
 - 2023.01.28(토)
 -- [백준_1085번_직사각형에서 탈출](https://github.com/YUMIN113/algorithmStudy/blob/main/%EB%B0%B1%EC%A4%80/Bronze/1085.%E2%80%85%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%EC%97%90%EC%84%9C%E2%80%85%ED%83%88%EC%B6%9C/%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%EC%97%90%EC%84%9C%E2%80%85%ED%83%88%EC%B6%9C.java)
