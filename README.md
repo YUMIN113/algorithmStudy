@@ -1,5 +1,8 @@
 # 2023년 02월
 
+2023.02.27(월)
+- [백준_2869번_달팽이는 올라가고 싶다](https://github.com/YUMIN113/algorithmStudy/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2869.%E2%80%85%EB%8B%AC%ED%8C%BD%EC%9D%B4%EB%8A%94%E2%80%85%EC%98%AC%EB%9D%BC%EA%B0%80%EA%B3%A0%E2%80%85%EC%8B%B6%EB%8B%A4)
+
 2023.02.26(일)
 - [백준_10816번_숫자 카드 2](https://github.com/YUMIN113/algorithmStudy/tree/main/%EB%B0%B1%EC%A4%80/Silver/10816.%E2%80%85%EC%88%AB%EC%9E%90%E2%80%85%EC%B9%B4%EB%93%9C%E2%80%852)
 
