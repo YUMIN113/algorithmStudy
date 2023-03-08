@@ -1,4 +1,7 @@
 # 2023년 03월
+
+- [백준_5622번_다이얼](https://github.com/YUMIN113/algorithmStudy/tree/main/%EB%B0%B1%EC%A4%80/Bronze/5622.%E2%80%85%EB%8B%A4%EC%9D%B4%EC%96%BC)
+
 - [백준_2750번_수 정렬하기](https://github.com/YUMIN113/algorithmStudy/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2750.%E2%80%85%EC%88%98%E2%80%85%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0)
 
 - [백준_1712번_손익분기점](https://github.com/YUMIN113/algorithmStudy/tree/main/%EB%B0%B1%EC%A4%80/Bronze/1712.%E2%80%85%EC%86%90%EC%9D%B5%EB%B6%84%EA%B8%B0%EC%A0%90)
