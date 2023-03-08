@@ -3,6 +3,9 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
+// 입력한 자연수를 배열의 index 로 설정한다.
+// arr[i] 값이 2개면 소수라고 판단하여 개수 출력한다.
+
 public class Main {
     public static void main(String[] args) throws IOException {
 
