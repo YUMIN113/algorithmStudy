@@ -1,6 +1,6 @@
 # 2023년 03월
 
--[백준_1929번_소수 구하기](https://github.com/YUMIN113/algorithmStudy/tree/main/%EB%B0%B1%EC%A4%80/Silver/1929.%E2%80%85%EC%86%8C%EC%88%98%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0)
+- [백준_1929번_소수 구하기](https://github.com/YUMIN113/algorithmStudy/tree/main/%EB%B0%B1%EC%A4%80/Silver/1929.%E2%80%85%EC%86%8C%EC%88%98%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0)
 
 - [백준_1978번_소수 찾기](https://github.com/YUMIN113/algorithmStudy/tree/main/%EB%B0%B1%EC%A4%80/Silver/1978.%E2%80%85%EC%86%8C%EC%88%98%E2%80%85%EC%B0%BE%EA%B8%B0)
 
