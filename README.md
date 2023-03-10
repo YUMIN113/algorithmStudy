@@ -1,6 +1,8 @@
 # 2023년 03월
 
-- [백준_10989번_수 정렬하기3](https://github.com/YUMIN113/algorithmStudy/tree/main/%EB%B0%B1%EC%A4%80/Bronze/10989.%E2%80%85%EC%88%98%E2%80%85%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0%E2%80%853)
+- [백준_2609번_최대공약수와 최소공배수](https://github.com/YUMIN113/algorithmStudy/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2609.%E2%80%85%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%E2%80%85%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98)
+
+- [백준_10989번_수 정렬하기 3](https://github.com/YUMIN113/algorithmStudy/tree/main/%EB%B0%B1%EC%A4%80/Bronze/10989.%E2%80%85%EC%88%98%E2%80%85%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0%E2%80%853)
 
 - [백준_1929번_소수 구하기](https://github.com/YUMIN113/algorithmStudy/tree/main/%EB%B0%B1%EC%A4%80/Silver/1929.%E2%80%85%EC%86%8C%EC%88%98%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0)
 
