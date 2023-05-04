@@ -24,6 +24,6 @@ class Solution {
                     .filter(it -> map.get(it) == maxValue)
                     .collect(Collectors.toList());
 
-            return tempList.size() == 1 ? tempList.stream().findFirst().get() : -1;
+            return tempList.size() == 1 ? tempList.stream().findFirst().orElse(-1) : -1;
     }
 }
