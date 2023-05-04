@@ -1,27 +1,29 @@
 import java.util.*;
+import java.util.stream.Collectors;
 
 class Solution {
     public int solution(int[] array) {
-        int answer = 0;
-        int count = 0;
-        int[] countArray = new int[1000];
         
-        for(int i = 0; i < array.length; i++) {
-            countArray[array[i]]++;
-        }
-        
-        int max = Arrays.stream(countArray).max().orElse(0);
-        
-        for(int i = 0; i < countArray.length; i++) {
-            if(countArray[i] == max) {
-                count++;
-                answer = i;
-            }
-        }
-        if(count == 1) {
-            return answer;
-        } else {
-            return -1;
-        }
+        Map<Integer, Integer> map = new HashMap<>();
+        Integer maxKey = 0;
+
+            Arrays.stream(array).forEach(it -> {
+                if (map.containsKey(it)) {
+                    int count = map.get(it);
+                    map.put(it, ++count);
+                    return;
+                }
+                map.put(it, 1);
+            });
+
+            Integer maxValue = map.values().stream().mapToInt(it -> it).max().getAsInt();
+
+            List<Integer> tempList = map
+                    .keySet()
+                    .stream()
+                    .filter(it -> map.get(it) == maxValue)
+                    .collect(Collectors.toList());
+
+            return tempList.size() == 1 ? tempList.stream().findFirst().get() : -1;
     }
 }
