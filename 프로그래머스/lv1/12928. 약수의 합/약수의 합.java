@@ -14,3 +14,5 @@ class Solution {
                     }).reduce(0, (x, y) -> x + y);
     }
 }
+
+// it 과 (n / it) 이 같은 경우를 반드시 고려해야 한다. 
