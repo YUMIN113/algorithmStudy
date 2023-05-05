@@ -18,8 +18,8 @@ class Solution {
                     return temp;
                 } 
             }
-             
             return it;
+            
         }).forEach(it -> sb.append((char) it));
         
         return String.valueOf(sb);
