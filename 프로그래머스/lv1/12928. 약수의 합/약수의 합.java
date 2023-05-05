@@ -11,7 +11,7 @@ class Solution {
                             return it;
                         }
                         return it + (n / it);
-                    }).reduce(0, (x, y) -> x + y);
+                    }).sum();
     }
 }
 
