@@ -8,6 +8,8 @@
 
 - [12931. 자릿수 더하기](https://github.com/YUMIN113/algorithmStudy/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/12931.%E2%80%85%EC%9E%90%EB%A6%BF%EC%88%98%E2%80%85%EB%8D%94%ED%95%98%EA%B8%B0)
 
+- [12932. 자연수 뒤집어 배열로 만들기](https://github.com/YUMIN113/algorithmStudy/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/12932.%E2%80%85%EC%9E%90%EC%97%B0%EC%88%98%E2%80%85%EB%92%A4%EC%A7%91%EC%96%B4%E2%80%85%EB%B0%B0%EC%97%B4%EB%A1%9C%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0)
+
 - [12934. 정수 제곱근 판별](https://github.com/YUMIN113/algorithmStudy/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/12934.%E2%80%85%EC%A0%95%EC%88%98%E2%80%85%EC%A0%9C%EA%B3%B1%EA%B7%BC%E2%80%85%ED%8C%90%EB%B3%84)
 
 - [12937. 짝수와 홀수](https://github.com/YUMIN113/algorithmStudy/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/12937.%E2%80%85%EC%A7%9D%EC%88%98%EC%99%80%E2%80%85%ED%99%80%EC%88%98)
