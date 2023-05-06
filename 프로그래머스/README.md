@@ -6,6 +6,8 @@
 
 - [12931. 자릿수 더하기](https://github.com/YUMIN113/algorithmStudy/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/12931.%E2%80%85%EC%9E%90%EB%A6%BF%EC%88%98%E2%80%85%EB%8D%94%ED%95%98%EA%B8%B0)
 
+- [12944. 평균 구하기](https://github.com/YUMIN113/algorithmStudy/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/12944.%E2%80%85%ED%8F%89%EA%B7%A0%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0)
+
 # Lv.0
 
 - [120802. 두 수의 합](https://github.com/YUMIN113/algorithmStudy/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/120802.%E2%80%85%EB%91%90%E2%80%85%EC%88%98%EC%9D%98%E2%80%85%ED%95%A9)
