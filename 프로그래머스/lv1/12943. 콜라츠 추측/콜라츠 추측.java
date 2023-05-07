@@ -17,10 +17,9 @@ class Solution {
                 value = (value * 3) + 1;
                 count++;
             }
-  
         }
         
-        if(count >= 500 && value != 1) {
+        if(count > 500 && value != 1) {
             count = -1;
         }
         return count;
