@@ -4,7 +4,7 @@ class Solution {
         int count = 0;
         long value = num;
         
-        while(count < 500) {
+        while(count <= 500) {
             
             if(value == 1) {
                 break;
@@ -17,10 +17,7 @@ class Solution {
                 value = (value * 3) + 1;
                 count++;
             }
-            
-            if(value == 1) {
-                break;
-            }
+  
         }
         
         if(count >= 500 && value != 1) {
