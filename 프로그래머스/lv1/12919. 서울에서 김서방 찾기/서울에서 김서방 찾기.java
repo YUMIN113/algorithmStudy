@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 class Solution {
     public String solution(String[] seoul) {
         int index = 0;
