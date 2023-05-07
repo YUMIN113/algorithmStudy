@@ -5,7 +5,6 @@ class Solution {
         long value = num;
         
         while(count <= 500) {
-            
             if(value == 1) {
                 break;
             }
