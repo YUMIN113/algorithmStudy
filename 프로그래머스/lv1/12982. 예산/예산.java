@@ -7,7 +7,7 @@ class Solution {
         Arrays.sort(d);
         
         for(int i = 0; i < d.length; i++) {
-            budget = budget - d[i];
+            budget -= d[i];
             if (budget < 0) {
                 break;
             }
