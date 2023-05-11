@@ -30,6 +30,8 @@
 
 - [12947. 하샤드 수](https://github.com/YUMIN113/algorithmStudy/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/12947.%E2%80%85%ED%95%98%EC%83%A4%EB%93%9C%E2%80%85%EC%88%98)
 
+- [12948. 핸드폰 번호 가리기](https://github.com/YUMIN113/algorithmStudy/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/12948.%E2%80%85%ED%95%B8%EB%93%9C%ED%8F%B0%E2%80%85%EB%B2%88%ED%98%B8%E2%80%85%EA%B0%80%EB%A6%AC%EA%B8%B0)
+
 - [12954. x만큼 간격이 있는 n개의 숫자](https://github.com/YUMIN113/algorithmStudy/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/12954.%E2%80%85x%EB%A7%8C%ED%81%BC%E2%80%85%EA%B0%84%EA%B2%A9%EC%9D%B4%E2%80%85%EC%9E%88%EB%8A%94%E2%80%85n%EA%B0%9C%EC%9D%98%E2%80%85%EC%88%AB%EC%9E%90)
 
 - [12982. 예산](https://github.com/YUMIN113/algorithmStudy/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/12982.%E2%80%85%EC%98%88%EC%82%B0)
