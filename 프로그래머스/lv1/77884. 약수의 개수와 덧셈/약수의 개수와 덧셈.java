@@ -34,9 +34,7 @@ class Solution {
         int sum = 0;
         
         for(int i = left; i <= right; i++) {
-            int square = (int) Math.sqrt(i);
-            
-            if(Math.pow(square, 2) == i) {
+            if(i % Math.sqrt(i) == 0) {
                 sum -= i;
             } else {
                 sum += i;
