@@ -11,3 +11,5 @@ class Solution {
         return count;
     }
 }
+
+// Long.parseLong() 사용 확인.
