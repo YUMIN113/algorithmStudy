@@ -40,6 +40,8 @@
 
 - [12982. 예산](https://github.com/YUMIN113/algorithmStudy/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/12982.%E2%80%85%EC%98%88%EC%82%B0)
 
+- [42748. K번째수](https://github.com/YUMIN113/algorithmStudy/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/42748.%E2%80%85K%EB%B2%88%EC%A7%B8%EC%88%98)
+
 - [70128. 내적](https://github.com/YUMIN113/algorithmStudy/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/70128.%E2%80%85%EB%82%B4%EC%A0%81)
 
 - [76501. 음양 더하기](https://github.com/YUMIN113/algorithmStudy/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/76501.%E2%80%85%EC%9D%8C%EC%96%91%E2%80%85%EB%8D%94%ED%95%98%EA%B8%B0)
