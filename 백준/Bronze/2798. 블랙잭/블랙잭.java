@@ -24,14 +24,18 @@ public class Main {
             i++;
         }
         
-        long sum = 0;
-        long answer = 0;
+        int sum = 0;
+        int answer = 0;
         
         for(int j = 0; j < arr.length - 2; j++) {
             for(int k = j + 1; k < arr.length - 1; k++) {
                 for(int l = k + 1; l < arr.length; l++) {
                     sum = arr[j] + arr[k] + arr[l];
-                    if(answer < sum && sum <= maxNum) {
+                    if(sum == maxNum) {
+                        answer = sum;
+                        break;
+                    }
+                    if(answer < sum && sum < maxNum) {
                         answer = sum;
                     }
                 }
