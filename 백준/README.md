@@ -12,6 +12,8 @@
 
 - [2164. 카드2](https://github.com/YUMIN113/algorithmStudy/tree/main/%EB%B0%B1%EC%A4%80/Silver/2164.%E2%80%85%EC%B9%B4%EB%93%9C2)
 
+- [4948. 베르트랑 공준](https://github.com/YUMIN113/algorithmStudy/tree/main/%EB%B0%B1%EC%A4%80/Silver/4948.%E2%80%85%EB%B2%A0%EB%A5%B4%ED%8A%B8%EB%9E%91%E2%80%85%EA%B3%B5%EC%A4%80)
+
 # Bronze
 
 - [10809. 알파벳 찾기](https://github.com/YUMIN113/algorithmStudy/tree/main/%EB%B0%B1%EC%A4%80/Bronze/10809.%E2%80%85%EC%95%8C%ED%8C%8C%EB%B2%B3%E2%80%85%EC%B0%BE%EA%B8%B0)
