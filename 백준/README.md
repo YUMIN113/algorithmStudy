@@ -8,6 +8,8 @@
 
 - [1302. 베스트셀러](https://github.com/YUMIN113/algorithmStudy/tree/main/%EB%B0%B1%EC%A4%80/Silver/1302.%E2%80%85%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%85%80%EB%9F%AC)
 
+- [1920. 수 찾기](https://github.com/YUMIN113/algorithmStudy/blob/main/%EB%B0%B1%EC%A4%80/Silver/1920.%E2%80%85%EC%88%98%E2%80%85%EC%B0%BE%EA%B8%B0/%EC%88%98%E2%80%85%EC%B0%BE%EA%B8%B0.java)
+
 - [1929. 소수 구하기](https://github.com/YUMIN113/algorithmStudy/tree/main/%EB%B0%B1%EC%A4%80/Silver/1929.%E2%80%85%EC%86%8C%EC%88%98%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0)
 
 - [1978. 소수 찾기](https://github.com/YUMIN113/algorithmStudy/tree/main/%EB%B0%B1%EC%A4%80/Silver/1978.%E2%80%85%EC%86%8C%EC%88%98%E2%80%85%EC%B0%BE%EA%B8%B0)
