@@ -3,24 +3,25 @@ import java.io.*;
 public class Main {
     public static void main(String[] args) throws IOException{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        
-        int value = Integer.parseInt(br.readLine());
-        int answer = 1;
-        
-        for(int i = 0; i < value; i++) {
-            int quotient = answer;
+
+        String input = br.readLine();
+        int value = Integer.parseInt(input);
+        int valueLen = input.length();
+        int answer = 0;
+
+        for(int i = (value - (valueLen * 9)); i < value; i++) {
+            int quotient = i;
             int sum = 0;
-            
+
             while(quotient != 0) {
                 sum += quotient % 10;
                 quotient /= 10;
             }
-            if(answer + sum == value) {
-                System.out.println(answer);
-                return;
+            if(i + sum == value) {
+                answer = i;
+                break;
             }
-            answer++;
         }
-        System.out.println(0);
+        System.out.println(answer);
     }
 }
