@@ -1,3 +1,9 @@
+# 1
+
+- [12935. 제일 작은 수 제거하기](https://github.com/YUMIN113/algorithmStudy/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12935.%E2%80%85%EC%A0%9C%EC%9D%BC%E2%80%85%EC%9E%91%EC%9D%80%E2%80%85%EC%88%98%E2%80%85%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0)
+
+- [68935. 3진법 뒤집기](https://github.com/YUMIN113/algorithmStudy/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/68935.%E2%80%853%EC%A7%84%EB%B2%95%E2%80%85%EB%92%A4%EC%A7%91%EA%B8%B0)
+
 # Unrated
 
 - [147355. 크기가 작은 부분문자열](https://github.com/YUMIN113/algorithmStudy/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/unrated/147355.%E2%80%85%ED%81%AC%EA%B8%B0%EA%B0%80%E2%80%85%EC%9E%91%EC%9D%80%E2%80%85%EB%B6%80%EB%B6%84%EB%AC%B8%EC%9E%90%EC%97%B4)
